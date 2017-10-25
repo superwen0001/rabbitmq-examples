@@ -14,5 +14,5 @@ import org.springframework.test.context.web.WebAppConfiguration;
 // 指定我们SpringBoot工程的Application启动类
 @SpringBootTest(classes = Application.class)
 @WebAppConfiguration
-public class TestSuppert {
+public class TestSupport {
 }

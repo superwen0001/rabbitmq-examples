@@ -9,7 +9,7 @@ import static org.junit.Assert.*;
  * @author superwen
  * @date 2017/10/25 上午11:39
  */
-public class SendTest extends TestSuppert{
+public class SendTest extends TestSupport{
 
     @Autowired
     private Send send;
